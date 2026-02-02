@@ -1,18 +1,19 @@
-# Student Performance Analysis
+# Data Visualization & EDA Projects
 
-## Description
-Analyzed student academic data to evaluate performance using statistical analysis and visualization.
+This repository contains multiple data analysis and visualization projects built using
+Python, NumPy, Pandas, Matplotlib, and Seaborn.
 
-## Technologies
+## Technologies Used
 - Python
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
-## Key Features
-- Feature engineering using average marks
-- Performance classification (Good / Average / Poor)
-- Visualization of academic trends and attendance impact
+## Project Categories
+- NumPy + Pandas + Matplotlib projects
+- Seaborn-based Exploratory Data Analysis (EDA) projects
 
-## Outcome
-Demonstrates data preprocessing, analysis, and visualization skills essential for AI and data roles.
+## Purpose
+To demonstrate data preprocessing, exploratory data analysis, visualization skills,
+and analytical thinking required for AI, ML, and Data roles.
